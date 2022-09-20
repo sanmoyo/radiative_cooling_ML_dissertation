@@ -5,7 +5,7 @@ Link to **WPTherml**: https://github.com/FoleyLab/wptherml
 
 Link to **DEAP**: https://github.com/deap/deap
 
-The most **concise** summary of this porject --- Combined Professor Foley's WPTherml package (which does all the Transfer Matrix calculations) with a Genetic Algorithm package for rapid prototyping by using DEAP (link is attached above).
+The most **concise** summary of this porject --- Combined Professor Foley's WPTherml package (which does all the Transfer Matrix calculations) with a **Genetic Algorithm** package for rapid prototyping by using DEAP (link is attached above).
 
 N.B. This repo only contains the Python scripts (if you want to see all the dependencies, feel free to contact me). So, when you see error messages (e.g. in the 4 materials version, it is simply because I was testing an other version of the script.) 
 
