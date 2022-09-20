@@ -1,5 +1,5 @@
 # radiative_cooling_ML_dissertation
-My 3rd Year Electrical and Electronic Engineering dissertation at University of Southampton. This is my first attempt at a proper Python project so in addition to my constant coding struggles throughout the year, I have to give a massive thank you to my supervisor and also to Professor Foley and his team who developed the WPTherml package. Check it out if you are also doing a similar radiative cooling project. 
+My 3rd Year Electrical and Electronic Engineering dissertation at University of Southampton. This is my first attempt at a proper **Python** project so in addition to my constant coding struggles throughout the year, I have to give a massive thank you to my supervisor and also to Professor Foley and his team who developed the WPTherml package. Check it out if you are also doing a similar radiative cooling project. 
 
 Link to **WPTherml**: https://github.com/FoleyLab/wptherml
 
