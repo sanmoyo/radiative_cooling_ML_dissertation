@@ -9,6 +9,8 @@ The most **concise** summary of this porject --- Combined Professor Foley's WPTh
 
 N.B. This repo only contains the Python scripts (if you want to see all the dependencies, feel free to contact me). So, when you see error messages (e.g. in the 4 materials version, it is simply because I was testing an other version of the script.) 
 
+The **full dissertation report** is attached as well: https://github.com/sanmoyo/radiative_cooling_ML_dissertation/blob/main/mms2n18_May2_Finalver_Full.pdf
+
 **Dissertation Title:** Using Evolutionary Algorithm to optimise parameters of photonic radiator design
 
 **Grade achieved:** 1st Class
